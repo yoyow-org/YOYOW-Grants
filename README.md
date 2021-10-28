@@ -1,4 +1,4 @@
-# YOYOW-Grants
+# YOYOW Grants社区资助计划
 
 1. Fork 这个GitHub仓库：https://github.com/yoyow-org/YOYOW-Grants
 
