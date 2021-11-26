@@ -13,7 +13,7 @@ Lark将是一系列智能合约的协议集，映射现实中的价值关系，�
 
 **项目详情**
 
-Lark将实现YOYO的登录和发布功能，YOYO的质押功能(Staking YOYO, Earn LARK)，YOYO LP mining(前提是已实现跨链桥，建议基金会实现以获得更大的市场和更多的DeFi玩法)，NFT的发布铸造功能，艺术策展人机制。
+Lark将实现YOYO的登录和发布功能，YOYO的质押功能(Staking YOYO, Earn LARK)，YOYO LP mining(先采用节点的形式来实现)，NFT的发布铸造功能，艺术策展人机制。
 
 YOYO的质押功能需跨链执行(Staking YOYO, Earn LARK)，将采用监控节点的形式来实现。将YOYO的质押收益多样化，同时奖励用户LARK收益，以期实现生态范围的扩大。
 
